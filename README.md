@@ -1,8 +1,13 @@
-<h1 align="center"><a href="https://sentyzer.streamlit.app/">🕵️SentyZer</a></h1>
-<h3 align="center">|</h4>
+<h1 align="center">🕵️SentyZer</h1>
+<h3 align="center"><a href="https://sentyzer.streamlit.app/">💻</a></h4>
 
 ## 🚀 About SentyZer
 SentyZer is a Web-app Sentiment Analyzer that allows users to input single or multiple inputs into the LLM model. And analyzer will classified the inputs into positive or negative.
+
+<p align="center">
+  <a href="https://sentyzer.streamlit.app/"><img src="img/product-v1.PNG" alt="Sentyzer", width=620></a>
+</p>
+
 
 ### 🔧 How does it work?
 <p>
